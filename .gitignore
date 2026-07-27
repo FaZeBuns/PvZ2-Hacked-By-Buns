@@ -1,0 +1,5 @@
+# Ignore large binaries — IPA is published via GitHub Releases only
+*.ipa
+*.rsb
+.DS_Store
+Thumbs.db
