@@ -15,7 +15,7 @@
 ## Download
 
 Get the IPA from the latest **[Release](https://github.com/FaZeBuns/PvZ2-Hacked-By-Buns/releases/latest)**  
-File name: `PvZ2_Hacked_By_Buns.ipa` **Size: ~120 MB** (content downloads on first Play) 1.4GB After
+File name: `PvZ2_Hacked_By_Buns.ipa` **Size: ~1.4 GB**
 
 
 
