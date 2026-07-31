@@ -1,4 +1,4 @@
-# PvZ2 HACKED BY BUNS [NOT WORKING]
+# PvZ2 HACKED BY BUNS
 
 <p align="center">
   <img src="assets/buns_logo.png" alt="Hacked by Buns" width="160" />
